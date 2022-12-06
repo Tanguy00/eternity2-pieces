@@ -8,10 +8,10 @@ Les pièces sont présentés sur le site https://e2.bucas.name/ sous la forme su
 
 🗒️ Par isomorphise, une pièce `ajra` est identique à une pièce `raaj`.<br />
 
-Le demi-motif `a` correspond au demi-motif de bordure.
-Les demi-motifs de bords sont `b f j n r`.
-Les demi-motifs intérieur sont `c d e g h i k l m o p q s t u v w`.
-Les lettres `x y z` ne sont pas attribués.
+Le demi-motif `a` correspond au demi-motif de bordure.<br />
+Les demi-motifs de bords sont `b f j n r`.<br />
+Les demi-motifs intérieur sont `c d e g h i k l m o p q s t u v w`.<br />
+Les lettres `x y z` ne sont pas attribués.<br />
 <br />
 
 ```plaintext
