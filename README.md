@@ -1,12 +1,12 @@
 # eternity2-pieces
-Liste des pièces présentes dans Eternity II.
+Liste des pièces présentes dans Eternity II.<br />
 
 Les pièces sont présentés sur le site https://e2.bucas.name/ sous la forme suivante.
-Pour une pièce `ajra`, le premier `a` correspond au demi-motif du haut, et le `j` au demi-motif de droite, etc.
+Pour une pièce `ajra`, le premier `a` correspond au demi-motif du haut, et le `j` au demi-motif de droite, etc.<br />
 
-🗒️ Par isomorphise, une pièce `ajra` est identique à une pièce `raaj`.
+🗒️ Par isomorphise, une pièce `ajra` est identique à une pièce `raaj`.<br />
 
-Le demi-motif `a` correspond au demi-motif de bordure.
+Le demi-motif `a` correspond au demi-motif de bordure.<br />
 
 ```plaintext
 ajra
