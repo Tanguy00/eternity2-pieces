@@ -18,14 +18,14 @@ Les lettres `x y z` ne sont pas attribués.<br />
 Il n'y a aucune pièce de type `xxxx`.
 <br />
 
-Il y a 3 pièces de type `xxx.` (et autres isomorphes), qui sont :
+Il y a 3 pièces de type `xxx.` (et autres isomorphes), qui sont : `(.?$i$i$i.?)|($i$i.$i)|($i.$i$i)`
 ```plaintext
 tutt pppg uuou
 ```
 *On exclu ces trois pièces pour la suite des statistiques.*
 <br />
 
-Il y a 34 pièces de type `x.x.` (et autres isomorphes), qui sont :
+Il y a 34 pièces de type `x.x.` (et autres isomorphes), qui sont : `(.$i.$i)|($i.$i.)`
 ```plaintext
 babc bgba elec epem eteh fafq fafu fafi gpgs jhja jajp lklm nqna ncna qvqu qhqg rura rarc rars smsd vovw scic vcuc udmd pdqd imem cmim enan voho krar wsds dwvw vwiw qwuw
 ```
@@ -36,7 +36,7 @@ elec epem eteh gpgs lklm qvqu qhqg smsd vovw scic vcuc udmd pdqd imem cmim voho 
 Il n'y a aucune pièce de type `xyxy` (et autres isomorphes).
 <br />
 
-Il y a 45 pièces de type `xx..` (et autres isomorphes), qui sont : .?.?$i$i.?.?
+Il y a 45 pièces de type `xx..` (et autres isomorphes), qui sont : `(.?.?$i$i.?.?)|($i..$i)`
 ```plaintext
 aabf braa jaar sccg hcco sddo lddg opdd ddwh sggd sggm sggl ehhs eiid olii giip qkkm mpkk lluh lhmm ooti ppvw essc uhss wcss ttpc gttv kuup vvsi gvvs dwvv vvdc vcww ajra dhcd ewie kqtk kdck kwgk lmwl lshl lqpl ocso pmhp puop
 ```
