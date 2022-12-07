@@ -14,6 +14,41 @@ Les demi-motifs intérieur sont `c d e g h i k l m o p q s t u v w`.<br />
 Les lettres `x y z` ne sont pas attribués.<br />
 <br />
 
+##Statistiques sur les pièces
+Il n'y a aucune pièce de type `xxxx`.
+<br />
+
+Il y a 3 pièces de type `xxx.` (et autres isomorphes), qui sont :
+```plaintext
+tutt pppg uuou
+```
+*On exclu ces trois pièces pour la suite des statistiques.*
+<br />
+
+Il y a 34 pièces de type `x.x.` (et autres isomorphes), qui sont :
+```plaintext
+babc bgba elec epem eteh fafq fafu fafi gpgs jhja jajp lklm nqna ncna qvqu qhqg rura rarc rars smsd vovw scic vcuc udmd pdqd imem cmim enan voho krar wsds dwvw vwiw qwuw
+```
+Sans compter les pièces de bordure, il y en a 20, qui sont :
+```plaintext
+elec epem eteh gpgs lklm qvqu qhqg smsd vovw scic vcuc udmd pdqd imem cmim voho wsds dwvw vwiw qwuw
+```
+Il n'y a aucune pièce de type `xyxy` (et autres isomorphes).
+<br />
+
+Il y a 45 pièces de type `xx..` (et autres isomorphes), qui sont : .?.?$i$i.?.?
+```plaintext
+aabf braa jaar sccg hcco sddo lddg opdd ddwh sggd sggm sggl ehhs eiid olii giip qkkm mpkk lluh lhmm ooti ppvw essc uhss wcss ttpc gttv kuup vvsi gvvs dwvv vvdc vcww ajra dhcd ewie kqtk kdck kwgk lmwl lshl lqpl ocso pmhp puop
+```
+Sans compter les pièces de bordure, il y en a 41, qui sont :
+```plaintext
+sccg hcco sddo lddg opdd ddwh sggd sggm sggl ehhs eiid olii giip qkkm mpkk lluh lhmm ooti ppvw essc uhss wcss ttpc gttv kuup vvsi gvvs dwvv vvdc vcww dhcd ewie kqtk kdck kwgk lmwl lshl lqpl ocso pmhp puop
+```
+Il n'y a aucune pièce de type `xxyy` (et autres isomorphes).
+<br />
+
+
+##La liste des pièces du puzzle
 ```plaintext
 ajra
 aftj
