@@ -14,7 +14,7 @@ Les demi-motifs intérieur sont `c d e g h i k l m o p q s t u v w`.<br />
 Les lettres `x y z` ne sont pas attribués.<br />
 <br />
 
-##Statistiques sur les pièces
+## Statistiques sur les pièces
 Il n'y a aucune pièce de type `xxxx`.
 <br />
 
