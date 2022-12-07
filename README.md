@@ -47,6 +47,9 @@ sccg hcco sddo lddg opdd ddwh sggd sggm sggl ehhs eiid olii giip qkkm mpkk lluh 
 Il n'y a aucune pièce de type `xxyy` (et autres isomorphes).
 <br />
 
+Il ne reste logiquement plus que des pièces ayant quatres demi-motifs différents.
+Il y en a 132, à savoir : `tiou ptuv ewst cugw lwou uicw pdli moci pcto igoe clup icsw ehut otvh cwet dchu mstc uhew wluh edvl ptem upwt tdoi hltd tmol vwom vcie vtih shlt wdlt eigh oelh tile oscl itpc scpt ilmc lgvh cwvg imul iovm mwpo hsew hwqs vqdo mhtg uqgh ucmq itec glst pecl hmse vlom pgtl ehvg qtoh ievt vpme dutp tplh mqgi emdq sdpm clid odeg tohd mgoc tikg iluq ghvl ikgd gepk hodw sugc oegu kwle pdhq utkd vkqt wedk qswe ihpu dqch cueq gqku ousq gpmu lswp hqvc kwoq dmew wvdm ovmt pkiv cslk epks sqgu msgq vqwh ogkq ukvg eowk deso thqe mklh imwk uikq gsui gtvs dvkt wlqd kgql vlqg wqkl suhq limv wkpi loek tkuo uqkd vpuq komp qmkh hoqw qvio mokv pmko eqtm umiq cdhm kqed ukwq`
+<br />
 
 ## La liste des pièces du puzzle
 ```plaintext
