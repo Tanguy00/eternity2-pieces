@@ -48,7 +48,7 @@ Il n'y a aucune pièce de type `xxyy` (et autres isomorphes).
 <br />
 
 
-##La liste des pièces du puzzle
+## La liste des pièces du puzzle
 ```plaintext
 ajra
 aftj
